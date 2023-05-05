@@ -38,8 +38,8 @@ void obtenerArea (float radio, float x1, float y1, float x2, float y2, float x3 
 
     float Respuesta = at - ac;
 
-    printf("%f",Respuesta);
+    printf("%f \n",Respuesta);
 
-    printf(" area circulo %f", ac);
-    printf(" Area triangulo %f", at); 
+    printf(" area circulo %f \n", ac);
+    printf(" Area triangulo %f \n", at); 
 }

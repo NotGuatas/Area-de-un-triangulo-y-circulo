@@ -5,7 +5,7 @@ Se debe conservar la estructura del archivo main.c */
 
 #include <math.h>
 #include <stdio.h>
-#include "Funciones\funciones.h"
+#include "funciones.h"
 
 int main(){
 
